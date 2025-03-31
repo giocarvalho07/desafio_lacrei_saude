@@ -19,12 +19,15 @@ Testes unitários com APITestCase foram escritos para garantir que os endpoints 
 
 
 Rodando o Servidor
+<br>
 Com o ambiente configurado e as migrações realizadas, execute o servidor local para rodar a API:
 
 bash
 Copiar
 Editar
+<br>
 python manage.py runserver
+<br>
 A API estará disponível em http://127.0.0.1:8000/
 
 
@@ -67,7 +70,9 @@ Como Executar os Testes Unitários, utilize o comando abaixo:
 bash
 Copiar
 Editar
+<br>
 python manage.py test
+<br>
 Ou se estiver utilizando o Poetry, execute o comando dentro do ambiente do Poetry:
 
 bash
