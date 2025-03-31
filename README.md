@@ -1,4 +1,5 @@
-Arquitetura e Decisões de Implementação
+Arquitetura 
+<br>
 Django foi escolhido para gerenciar as rotas e a lógica do servidor, aproveitando sua robustez e facilidade de implementação de APIs RESTful.
 
 Django Rest Framework (DRF) foi utilizado para construir os endpoints da API de maneira eficiente e rápida, além de facilitar a serialização dos objetos do banco de dados para JSON.
